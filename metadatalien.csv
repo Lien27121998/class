@@ -1,0 +1,19 @@
+"Mammal, Bird, Reptile, Fish, Amphibian, Bug , Invertebrate"
+ animal_name: Unique for each instance
+ hair: Boolean
+ feathers: Boolean
+ eggs: Boolean
+ milk: Boolean
+ airborne: Boolean
+ aquatic: Boolean
+ predator: Boolean
+ toothed: Boolean
+ backbone: Boolean
+ breathes: Boolean
+ venomous: Boolean
+ fins: Boolean
+"legs Numeric (set of values: {0,2,4,5,6,8})"
+ tail: Boolean
+ domestic: Boolean
+ catsize: Boolean
+" class_type Numeric (integer values in range [1,7])"
